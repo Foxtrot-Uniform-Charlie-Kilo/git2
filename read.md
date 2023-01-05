@@ -4,7 +4,7 @@ More information
 
 
 
-![This is t-54][def1]
+![This is B. Obama][def1]
 
 
-[def1]: https://war-book.ru/wp-content/uploads/2019/03/00031698.jpg "Soviet army T-54/55"
+[def1]: https://sharij.net/wp-content/uploads/2017/01/barack-obama1.jpg
