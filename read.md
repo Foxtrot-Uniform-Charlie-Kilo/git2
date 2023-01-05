@@ -4,7 +4,7 @@ More information
 
 
 
-![This is B. Obama][def1]
+![This is B. Obama](https://www.topnews.ru/wp-content/uploads/2021/05/Obama.jpg)
 
+[Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)\
 
-[def1]: https://sharij.net/wp-content/uploads/2017/01/barack-obama1.jpg
