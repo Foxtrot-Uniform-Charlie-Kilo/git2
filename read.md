@@ -4,4 +4,7 @@ More information
 
 
 
-![This is t-54](https://war-book.ru/wp-content/uploads/2019/03/00031698.jpg) "Soviet's army T-54/55"
+![This is t-54][def1]
+
+
+[def1]: https://war-book.ru/wp-content/uploads/2019/03/00031698.jpg "Soviet army T-54/55"
