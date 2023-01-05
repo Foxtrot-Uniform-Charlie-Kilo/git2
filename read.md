@@ -4,7 +4,8 @@ More information
 
 
 
-![This is t-54][def1]
+![This is Chlorine][def1]
 
 
-[def1]: https://war-book.ru/wp-content/uploads/2019/03/00031698.jpg "Soviet army T-54/55"
+
+[def1]: https://ketokotleta.ru/wp-content/uploads/8/8/5/885b964a123cc627c6f5f4bfa670bf08.jpeg "Chlorine" 
